@@ -5,7 +5,8 @@ A Spring Boot application that orchestrates an order fulfillment workflow using 
 ## Architecture / Workflow Diagram
 
 ```
-![img.png](img.png)
+<img width="1250" height="464" alt="image" src="https://github.com/user-attachments/assets/a9be1c1d-0645-4a52-887f-8ad16bb6143d" />
+
 
 ```
 
